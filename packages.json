@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.2",
+  "packages": [
+    {
+      "name": "Spelling Language French - Dicionnaire Français",
+      "description": "French spelling dictionary - Dictionnaire Français",
+      "author": "superbob",
+      "homepage": "https://github.com/superbob/SublimeTextLanguageFrench",
+      "last_modified": "2013-07-03 22:04:00",
+      "platforms": {
+        "*": [
+          {
+            "version": "0.1",
+            "url": "https://nodeload.github.com/superbob/SublimeTextLanguageFrench/zip/0.1"
+          }
+        ]
+      }
+    }
+  ]
+}
