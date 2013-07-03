@@ -3,7 +3,7 @@ Sublime Text Language French
 
 Add French spelling languages to your Sublime Text editor.
 
-Based on dicollecte Hunspell French dictionaries.
+Based on the latest dicollecte Hunspell French dictionaries.
 http://www.dicollecte.org/
 
 Languages variants included are the ones provided by the dicollecte Hunspell French dictionaries :
@@ -15,6 +15,19 @@ Languages variants included are the ones provided by the dicollecte Hunspell Fre
 
 Installation
 ------------
+
+### Sublime Package Control
+
+I am currently trying to add my repo to the [official list](http://wbond.net/sublime_packages/community).
+In the meantime, you can manually add it with Package Control.
+
+  1. Add the following repository : https://raw.github.com/superbob/SublimeTextLanguageFrench/master/packages.json
+  2. Install the following package : "Language - French - Français".
+  3. Choose the language (View > Dictionary > Language - French - Français > fr_FR)
+  4. Be sure spelling is activated (F6 / View > Spell Check)
+  5. You are done !
+
+### Manual installation
 
   1. Locate Sublime Text Package folder (Preferences > Browse Packages)
   2. Create a folder called "Language - French"
