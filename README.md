@@ -27,11 +27,18 @@ Installation
 ### Manual installation
 
   1. Locate Sublime Text Package folder (Preferences > Browse Packages)
-  2. [Download me](https://nodeload.github.com/superbob/SublimeTextLanguageFrench/zip/master "Manual Package") and unzip my contents in this folder (Packages)
+  2. [Download me](https://nodeload.github.com/superbob/SublimeTextLanguageFrench/zip/master "Download manual package") and unzip my contents in this folder (Packages)
   3. Rename the folder in a more suitable name, ex: "Language - French - Français (manual)" (**warning:** there must not be any sub-folder in this folder, depending on your unzipping utility you might need to move files to the parent folder)
   4. Choose the language (View > Dictionary > Language - French > fr_FR)
   5. Be sure spelling is activated (F6 / View > Spell Check)
   6. You are done !
+
+Compatibility
+-------------
+
+Tested with [Sublime Text 3 (Build 3047)](http://www.sublimetext.com/3 "Sublime Text 3 (Build 3047)") (OS X and Linux 64 bit tarball) and [Package Control for ST3](http://wbond.net/sublime_packages/package_control/installation#ST3 "Package Control for ST3").
+
+Even if I didn't test it, it should work with Sublime Text 2 (any platform) and older versions of Package Control.
 
 License
 -------
