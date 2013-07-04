@@ -4,7 +4,8 @@ Sublime Text Language French
 Add French spelling languages to your Sublime Text editor.
 
 Based on the latest dicollecte Hunspell French dictionaries (as of 2013-07-03).
-[dicollecte](http://www.dicollecte.org/home.php?prj=fr "dicollecte")
+
+[http://www.dicollecte.org/home.php?prj=fr](http://www.dicollecte.org/home.php?prj=fr "dicollecte")
 
 Languages variants included are the ones provided by the dicollecte Hunspell French dictionaries (fr_FR) :
 
@@ -43,6 +44,7 @@ Informations
 ------------
 
 Last updated with "Hunspell 4.11 (2013-06-17)" as of 2013-07-03.
+
 http://www.dicollecte.org/download/fr/hunspell-french-dictionaries-v4.11.zip
 
 Q&A
@@ -68,5 +70,7 @@ Credits
 -------
 
 [dicollecte](http://www.dicollecte.org/ "dicollecte")
+
 [Sublime Text - Dictionaries package](https://github.com/SublimeText/Dictionaries "Sublime Text - Dictionaries package")
+
 [wbond - Sublime Package Control](http://wbond.net/sublime_packages/package_control "wbond - Sublime Package Control")
