@@ -4,15 +4,13 @@
     {
       "name": "Language - French - Français",
       "details": "https://github.com/superbob/SublimeTextLanguageFrench",
-      "homepage": "https://github.com/superbob/SublimeTextLanguageFrench",
-      "readme": "https://raw.github.com/superbob/SublimeTextLanguageFrench/master/README.md",
       "labels": ["spell check", "dictionnary", "french"],
       "releases": [
         {
+          "sublime_text": "*",
           "details": "https://github.com/superbob/SublimeTextLanguageFrench/tags"
         }
       ]
     }
-
   ]
 }
