@@ -1,6 +1,11 @@
 CHANGELOG
 =========
 
+0.2.2
+-----
+
+  * Updated dicollecte Hunspell French dictionaries to 5.1
+
 0.2.1
 -----
 
