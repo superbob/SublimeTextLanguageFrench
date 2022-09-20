@@ -3,13 +3,12 @@ Sublime Text Language French
 
 Add French spelling languages to your Sublime Text editor.
 
-Based on the latest dicollecte Hunspell French dictionaries (as of 2022-09-20).
+Based on the latest Grammalecte Hunspell French dictionaries (as of 2022-09-20).
 
-[http://www.dicollecte.org/home.php?prj=fr](http://www.dicollecte.org/home.php?prj=fr "dicollecte")
+[https://grammalecte.net/home.php?prj=fr](https://grammalecte.net/home.php?prj=fr "Grammalecte")
 
 Languages variants included are the ones provided by the dicollecte Hunspell French dictionaries (fr_FR) :
 
-  * Modern
   * Classical [default]
   * 1990 reform
   * All variants
@@ -52,7 +51,7 @@ Informations
 
 Last updated with "Hunspell 7.0 (2020-12-07)" as of 2022-09-20.
 
-http://www.dicollecte.org/download/fr/hunspell-french-dictionaries-v7.0.zip
+http://grammalecte.net/download/fr/hunspell-french-dictionaries-v7.0.zip
 
 Q&A
 ---
@@ -76,7 +75,7 @@ Q&A
 Credits
 -------
 
-[dicollecte](https://grammalecte.net/ "grammalecte")
+[Grammalecte](https://grammalecte.net/ "Grammalecte")
 
 [Sublime Text - Dictionaries package](https://github.com/SublimeText/Dictionaries "Sublime Text - Dictionaries package")
 
