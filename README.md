@@ -3,7 +3,7 @@ Sublime Text Language French
 
 Add French spelling languages to your Sublime Text editor.
 
-Based on the latest dicollecte Hunspell French dictionaries (as of 2014-06-16).
+Based on the latest dicollecte Hunspell French dictionaries (as of 2022-09-20).
 
 [http://www.dicollecte.org/home.php?prj=fr](http://www.dicollecte.org/home.php?prj=fr "dicollecte")
 
@@ -36,9 +36,9 @@ Installation
 Compatibility
 -------------
 
-Tested with [Sublime Text 3 (Build 3059)](http://www.sublimetext.com/3 "Sublime Text 3 (Build 3059)") (OS X and Linux 64 bit tarball) and [Package Control 2 for ST3](https://sublime.wbond.net/installation#st3 "Package Control 2 for ST3").
+Tested with [Sublime Text 4 (Build 4126)](https://www.sublimetext.com/ "Sublime Text 4 (Build 4126)") (Windows).
 
-Even if I didn't test it, it should work with Sublime Text 2 (any platform) and older versions of Package Control.
+Even if I didn't test it, it should work older versions of Sublime Text (2/3) and any platform.
 
 License
 -------
@@ -50,16 +50,16 @@ Additional files provided here are licensed under the Simplified BSD "2-Clause" 
 Informations
 ------------
 
-Last updated with "Hunspell 5.1 (2014-05-20)" as of 2014-06-16.
+Last updated with "Hunspell 7.0 (2020-12-07)" as of 2022-09-20.
 
-http://www.dicollecte.org/download/fr/hunspell-french-dictionaries-v5.1.zip
+http://www.dicollecte.org/download/fr/hunspell-french-dictionaries-v7.0.zip
 
 Q&A
 ---
 
 **Q:** There is already a [Dictionaries package](https://github.com/SublimeText/Dictionaries "Dictionaries package") for Sublime Text, why another ?
 
-**A:** Dictionaries is a really cool package, but it is big (29 dictionaries, 23 different languages), and all variants are not included for each language. I want to provide a package that has only one main language (fr_FR) with its technical variants. For information, [I also contribute to Dictionaries](https://github.com/SublimeText/Dictionaries/pull/15), to keep it up to date in concordance to this Package. Currently, the French dictionary version included in Dictionaries package is the same as the one provided here.
+**A:** Dictionaries is a really cool package, but it is big (29 dictionaries, 23 different languages), and all variants are not included for each language. I want to provide a package that has only one main language (fr_FR) with its technical variants. For information, [I also contribute to Dictionaries](https://github.com/titoBouzout/Dictionaries/pull/96), to keep it up to date in concordance to this Package. Currently, the French dictionary version included in Dictionaries package is the same as the one provided here.
 
 **Q:** Other languages ?
 
@@ -76,7 +76,7 @@ Q&A
 Credits
 -------
 
-[dicollecte](http://www.dicollecte.org/ "dicollecte")
+[dicollecte](https://grammalecte.net/ "grammalecte")
 
 [Sublime Text - Dictionaries package](https://github.com/SublimeText/Dictionaries "Sublime Text - Dictionaries package")
 
