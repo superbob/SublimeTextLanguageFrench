@@ -4,7 +4,7 @@
     {
       "name": "Language - French - Français",
       "details": "https://github.com/superbob/SublimeTextLanguageFrench",
-      "labels": ["spell check", "dictionnary", "french"],
+      "labels": ["spell check", "dictionary", "french"],
       "releases": [
         {
           "sublime_text": "*",
